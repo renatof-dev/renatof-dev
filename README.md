@@ -21,7 +21,7 @@
 - [API de Tarefas com Node.js](#)  
 - [Portfólio Pessoal](#)  
 
-*(Substitua os `#` pelos links reais dos seus repositórios quando criar cada projeto)*
+
 
 ---
 
