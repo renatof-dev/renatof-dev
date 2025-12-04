@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Renato Fernandes
 
-<!--
-**renatof-dev/renatof-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento Web Full Stack (Udemy - 2025)  
+💻 Explorando **Node.js**, **JavaScript** e **TypeScript**  
+🚀 Objetivo: construir aplicações modernas e escaláveis  
+🌱 Sempre aprendendo e compartilhando projetos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias em aprendizado
+- Node.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5 & CSS3
+- Git & GitHub
+
+---
+
+## 📂 Projetos em destaque
+- [Calculadora em JavaScript](#)  
+- [API de Tarefas com Node.js](#)  
+- [Portfólio Pessoal](#)  
+
+*(Substitua os `#` pelos links reais dos seus repositórios quando criar cada projeto)*
+
+---
+
+## 📊 Estatísticas
+![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renatof-dev&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+- LinkedIn: [Renato Fernandes](https://www.linkedin.com/in/renato-fernandes-92a4a8388/)  
+- GitHub: [renatof-dev](https://github.com/renatof-dev)  
+
