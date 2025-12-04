@@ -14,19 +14,6 @@
 - HTML5 & CSS3
 - Git & GitHub
 
----
-
-## 📂 Projetos em destaque
-- [Calculadora em JavaScript](#)  
-- [API de Tarefas com Node.js](#)  
-- [Portfólio Pessoal](#)  
-
-
-
----
-
-## 📊 Estatísticas
-![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renatof-dev&show_icons=true&theme=radical)
 
 ---
 
